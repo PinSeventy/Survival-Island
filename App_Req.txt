@@ -1,5 +1,0 @@
-> Application must generate pseudo-random islands each play through to allow for a unique experience each game
-> Application must allow player to move around the island
-> Application must allow player to interact with items on the island such as rocks, trees, sticks, entities, etc.
-> Application must allow player to save his/her progress at any time
-> Application must erase island & save data upon death of the player
